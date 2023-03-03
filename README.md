@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anjaneya Bhardwaj
+👋 Hi, I’m Anjaneya Bhardwaj
 
 <!---
 anj2b/anj2b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
