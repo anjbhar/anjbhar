@@ -8,8 +8,3 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anjbhar&theme=dark&hide_border=false" alt="anjbhar :: Stats" /></p>
 
-
-<h4 align="center">Visitor's count</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{anjbhar}/count.svg" alt="anjbhar :: Visitor's Count" /></p>
-
