@@ -1,5 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm AJ Bhardwaj</h1>
+# 👋 Hi, I’m AJ Bhardwaj
 
+🚀 Software Developer | API & Full-Stack Builder  
+💡 I build practical software, APIs, and tools that solve real problems
+
+---
 <!---
 anjbhar/anjbhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
